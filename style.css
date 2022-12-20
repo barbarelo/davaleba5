@@ -1,0 +1,9 @@
+div{
+    background-color: white;
+}
+nav {
+    background-color: blue(47, 128,237,1);
+    list-style-type: none;
+    text-align: left; 
+    padding: 0;
+    margin: 0;}
